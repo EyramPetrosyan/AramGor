@@ -1,0 +1,101 @@
+body{
+	background-image:url("b1.jpg");
+}
+#firstDiv{
+	text-align:center;
+	color:red;
+	background-color:rgba(0, 255, 0, 0.6);
+	border-radius:50px;
+	height:100px;
+	width:1587px;
+	font-family:Forte;
+	font-size:40px;
+	
+	
+}
+
+#menu li a{
+	text-decoration:none;
+	text-align:center;
+	
+}
+#menu{
+	background-color:#bbffbb;
+	padding:50px;
+	border-radius:50px;
+	text-align:center;
+}
+#menu li{
+	display:inline;
+	background-color:rgba(0,255,0, 0.3);
+	font-size:20px;
+	padding:10px 5px;
+	border-radius:50px;
+	text-align:center;
+}
+#menu li:hover{
+	background-color:rgba(0,275,0, 0.3);
+	font-size:22px;
+	padding:15px 7.5px;
+	text-align:center;
+}
+#firstP{
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+
+#1h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+	text-align:center;
+}
+#2h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+	text-align:center;
+}
+#secondP{
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+#3h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+	text-align:center;
+}
+#thirdP{
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+#4h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+	text-align:center;
+}
+#fourthP{
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+#5h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+	text-align:center;
+}
+#fifthP{
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+img{
+	height:450px;
+	border-radius:50px;
+}
